@@ -1,6 +1,6 @@
 
 
-import { Card } from "../components/Card"
+import { ProductCard } from "../components/ProductCard"
 import { Data } from "../data/Data"
 import { useTitle } from "../hooks/useTitle";
 
@@ -11,7 +11,7 @@ useTitle(title);
   return (
     <div className="flex justify-center flex-wrap">
       {products.map((product) => (
-        <Card key={product.id} product={product} />
+        <ProductCard key={product.id} product={product} />
       ))}
     </div>
   )
