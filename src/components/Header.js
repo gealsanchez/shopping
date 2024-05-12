@@ -15,7 +15,7 @@ export const Header = () => {
         <NavLink to="/" className="link">Home</NavLink>
         <NavLink to="/cart" className="link">Cart</NavLink>
       </nav>
-      <p className="w-32 text-2xl font-bold text-gray-900 dark:text-white">Cart: {cartList.length}</p>
+      <p className="w-28 text-2xl font-bold text-gray-900 dark:text-white">Cart: {cartList.length}</p>
     </header>
   )
 }
