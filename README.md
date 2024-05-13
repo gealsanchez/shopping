@@ -1,70 +1,164 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+<h1><b>Shopping Cart Project</b></h1>
 
-In the project directory, you can run:
+</div>
 
-### `npm start`
+<!-- TABLE OF CONTENTS -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 📗 Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-### `npm test`
+<!-- PROJECT DESCRIPTION -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 📖 React Project <a name="about-project"></a>
 
-### `npm run build`
+**Shopping Cart** shows a react & redux builded feature to add and remove items from a shopping cart
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot from 2024-05-12 18-44-56](https://github.com/gealsanchez/shopping/assets/94255143/70777ed7-ca37-4cd4-85c9-b37b8a7d5da3)
+![Screenshot from 2024-05-12 18-45-34](https://github.com/gealsanchez/shopping/assets/94255143/6089580e-0c57-4802-8071-1cd7c07d2d10)
+![Screenshot from 2024-05-12 18-45-43](https://github.com/gealsanchez/shopping/assets/94255143/5e7662b2-233e-4c89-80df-a84fadb3cdf2)
+![WhatsApp Image 2024-05-12 at 7 05 53 PM](https://github.com/gealsanchez/shopping/assets/94255143/a69a79e1-d600-46ba-9d30-2e163ec72f38)
+![WhatsApp Image 2024-05-12 at 7 05 53 PM (1)](https://github.com/gealsanchez/shopping/assets/94255143/fbe039ed-0307-4880-a422-9c848954b475)
+![WhatsApp Image 2024-05-12 at 7 05 53 PM (2)](https://github.com/gealsanchez/shopping/assets/94255143/0043d204-03eb-4f5a-b8f6-967321cb14e3)
+![WhatsApp Image 2024-05-12 at 7 05 53 PM (3)](https://github.com/gealsanchez/shopping/assets/94255143/8c049943-31bd-4a42-99bf-dd0f83a3fa14)
+![WhatsApp Image 2024-05-12 at 7 05 54 PM](https://github.com/gealsanchez/shopping/assets/94255143/4fec28b0-ad6a-474c-841e-9d511dd24b85)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠 Built With <a name="built-with"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ - HTML
+ - CSS
+ - JavaScript
+ - React
+ - Webpack
+ - Tailwind
 
-### `npm run eject`
+### Tech Stack <a name="tech-stack"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Key Features <a name="key-features"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Single Page Application**
+- **React components**
+- **React props**
+- **Handle events in a React app**
+- **Use styles in a React app**
+- **Use Tailwind in a React app**
+- **Dynamic Screen Feature**
+- **Navigation**
+- **Redux**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Learn More
+## 🚀 Live Demo <a name="live-demo"></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- - [Live Demo Link](https://flowershop-cartfeature.netlify.app/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Code Splitting
+## 💻 Getting Started <a name="getting-started"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+To get a local copy up and running, follow these steps.
 
-### Analyzing the Bundle Size
+### Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+In order to run this project you need:
+- node.js
+- git
 
-### Making a Progressive Web App
+### Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Clone this repository to your desired folder:
 
-### Advanced Configuration
+- Open your terminal
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Navigate to the directory where you want to clone the project.
 
-### Deployment
+- Clone the project using by running the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+`git clone git@github.com:gealsanchez/shopping.git`
 
-### `npm run build` fails to minify
+### Install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Install this project using the following command: 
+
+`npm install`.
+
+### Usage
+
+To run the project, execute the following commands:
+
+- `npm run build`
+- `npm start`
+
+### Run tests
+
+To run tests, run the following command:
+
+`npm test`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Gerson SANCHEZ**
+
+- GitHub: [@github](https://github.com/gealsanchez)
+- Twitter: [@twitter](https://twitter.com/gealsanchez)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gersonsanchezsandoval/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse and Shubham Sarda (Original design idea).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
